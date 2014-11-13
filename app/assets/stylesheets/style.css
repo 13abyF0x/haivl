@@ -1,0 +1,10 @@
+#site
+{
+	margin-top: 50px;
+}
+a:hover
+{
+	text-decoration: none;
+	background-color: transparent;
+	color: #000;
+}
